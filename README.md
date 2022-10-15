@@ -1,7 +1,7 @@
 2.A) CPU Scheduling Algorithms Implementation of First Come First Serve Scheduling.
 
 PROGRAM:-
-
+~~~py
 #include<stdio.h>
 int main()
 {
@@ -35,11 +35,11 @@ printf("\n\nAverage waiting time =%f",avg_wt);
 printf("\nAverage Turnaround time= %f \n",avg_tat);
 
 }
-
+~~~
 2.B) CPU Scheduling Algorithms Implementation of Shortest Job First
 
 PROGRAM:-
-
+~~~py
 #include <stdio.h>
 int main()
 {
@@ -91,11 +91,11 @@ int main()
     printf("\n\n Average Waiting Time =%f",avg_wt);
     printf("\n Average Turnaround Time = %f\n",avg_tat);
 }
-
+~~~
 2.C) CPU Scheduling Algorithms Implementation of Priority Scheduling
 
 PROGRAM:-
-
+~~~py
 #include <stdio.h>
 int main()
 {
@@ -152,11 +152,11 @@ int main()
 
 }
 
-
+~~~
 2.D) CPU Scheduling Algorithms Implementations of Round Robin Scheduling
 
 PROGRAM:-
-
+~~~py
     #include<stdio.h>  
     #include<conio.h>  
       
@@ -225,3 +225,4 @@ PROGRAM:-
     printf("\nAverage Waiting Time: %f", avg_tat);  
     getch();  
     }  
+~~~
