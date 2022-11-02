@@ -229,7 +229,7 @@ PROGRAM:-
 4 A)PAGING TECHNIQUE OF MEMORY MANAGEMENT
 
 PROGRAM:-
-~~~
+~~~py
 #include<stdio.h>
 int main()
 {
@@ -273,7 +273,7 @@ printf("\nThe Physical Address is -- %d",pa);
 4 B)PAGE REPLACEMENT ALGORITHM (FIFO)
 
 PROGRAM:-
-~~~
+~~~py
 #include<stdio.h>
 int main()
 {
@@ -314,7 +314,7 @@ return 0;
 4 C)PAGE REPLACEMENT ALGORITHM (LRU)
 
 PROGRAM:-
-~~~
+~~~py
 #include<stdio.h>
 main()
 {
@@ -392,7 +392,7 @@ printf("\nThe no of page faults is %d",c);
 4 D)PAGE REPLACEMENT ALGORITHM (OPR)
 
 PROGRAM:-
-~~~
+~~~py
 #include<stdio.h>
 int main()
 {
