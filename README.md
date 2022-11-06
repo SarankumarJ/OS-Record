@@ -316,7 +316,7 @@ return 0;
 PROGRAM:-
 ~~~py
 #include<stdio.h>
-main()
+int main()
 {
 int q[20],p[50],c=0,c1,d,f,i,j,k=0,n,r,t,b[20],c2[20];
 printf("Enter no of pages: \n");
